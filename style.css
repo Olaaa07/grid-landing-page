@@ -127,7 +127,7 @@ h2 {
   display: none;
 }
 /* =============================== */
-@media (max-width: 376px) {
+@media (max-width: 480px) {
   nav {
     padding: 10px 20px;
   }
@@ -149,7 +149,7 @@ h2 {
     padding: 0 20px;
   }
   .stats {
-    width: 100%;  
+    width: 100%;
     grid-template-columns: 1fr;
   }
   br {
